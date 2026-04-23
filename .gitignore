@@ -1,6 +1,7 @@
 # data files 
 data/ 
 *.csv 
+!outputs/*.csv
 *.pkl 
 # Python 
 __pycache__/ 
